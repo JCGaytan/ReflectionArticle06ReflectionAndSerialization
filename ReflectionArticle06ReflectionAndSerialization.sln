@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionArticle06ReflectionAndSerialization", "ReflectionArticle06ReflectionAndSerialization\ReflectionArticle06ReflectionAndSerialization.csproj", "{623C81A9-5603-4E76-872A-90EB1EEB8000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623C81A9-5603-4E76-872A-90EB1EEB8000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623C81A9-5603-4E76-872A-90EB1EEB8000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623C81A9-5603-4E76-872A-90EB1EEB8000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623C81A9-5603-4E76-872A-90EB1EEB8000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28067C4F-E793-4E18-89F7-865F2B79EA7A}
+	EndGlobalSection
+EndGlobal
